@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Blank Tab"
+    },
+    "extDesc": {
+        "message": "Apre una nuova scheda vuota, il colore dello sfondo seguirà il tema del browser."
+    },
+    "tabTitle": {
+        "message": "Nuova scheda"
+    }
+}

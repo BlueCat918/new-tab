@@ -1,0 +1,11 @@
+{
+    "extName": {
+        "message": "Blank Tab"
+    },
+    "extDesc": {
+        "message": "A blank new tab page with background color that follows the browser color theme."
+    },
+    "tabTitle": {
+        "message": "New Tab"
+    }
+}
